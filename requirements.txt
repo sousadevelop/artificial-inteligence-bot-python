@@ -1,0 +1,4 @@
+keyboard
+python-decouple
+pyttsx3
+SpeechRecognition
